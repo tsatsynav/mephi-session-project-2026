@@ -68,7 +68,7 @@ mephi-session-project-2026/
 
 ```bash
 $ ip -4 addr show
-# inet 10.1.30.44/24 brd ... scope global dynamic ens33
+# inet 10.1.30.44/24 brd ... enp0s1
 ```
 
 ### 1.2. Настройка имени хоста
