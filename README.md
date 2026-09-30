@@ -23,7 +23,7 @@ capabilities и политикой паролей.
 |----------|----------|
 | **Гостевая ОС** | RED OS 8 |
 | **Хост** | macOS, Apple Silicon M3 |
-| **Гипервизор** | UTM (QEMU + Virtualization.framework) |
+| **Гипервизор** | UTM |
 | **Архитектура** | ARM64 (aarch64) |
 | **Имя хоста** | `mephi-2026.domain.local` |
 | **Администратор** | `tsatsynav` (член `wheel`, sudo-доступ) |
